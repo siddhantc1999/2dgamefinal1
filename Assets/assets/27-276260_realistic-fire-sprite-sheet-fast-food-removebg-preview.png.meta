@@ -1,0 +1,1301 @@
+fileFormatVersion: 2
+guid: 361ff938e1ec65d43a2be555b70fa75d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 425
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632283621c226b04b803c43e121eb30c
+      internalID: -953875399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 426
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c0a6e4de08bf74583b4df1d2bb7718
+      internalID: -921393132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 426
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bbb9f4d1001c54d9f836a2d2717616
+      internalID: -1915930655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 424
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0256c369b53183459a61eb4d6e404e1
+      internalID: -744999614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 424
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a99be1304990e4ca2a85bfd27c1578
+      internalID: -1428144633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 424
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51902dcf6d2dadb468df996f600ce558
+      internalID: 1374132095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 424
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f96a8ba4c00b3e439f43079d471ff04
+      internalID: -86259642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 355
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aca45e3e313fdc4fa73b67f28a41729
+      internalID: 2019484884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 356
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1879e3755b83ba94a8c36853b296fa33
+      internalID: 1918942337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 356
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139d426a29aefee4ab12a572702a952a
+      internalID: -589725118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 355
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe33dac73b427884db4c855be4f5f243
+      internalID: -932326073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 355
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30231c128d28944ea2c6880fd68ff22
+      internalID: 2109753191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 355
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03952c08bd862e4c86868dbd3c5983c
+      internalID: 406516175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 355
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577c578dc007ae04cbe9ed0deea45987
+      internalID: -2004269745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 286
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99386ada1e18ae4498808c87f500eff5
+      internalID: -1459473946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 287
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e91020149ab8a941b664f8794b9d262
+      internalID: 1844035246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 286
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656dfad6f9fbde348964f1078f0be94b
+      internalID: 819992489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 287
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e771c64f1b6dd418bb6d68f6278c80
+      internalID: -1152346626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 287
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0258cb8aaf5d44fbab0ccb4ac39c7d
+      internalID: -1928704252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 288
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a71d1048b6395442b794373c7531cd4
+      internalID: -218097743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 289
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae857782b26a4049b5fc51eaa44c8a6
+      internalID: -1066250775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 222
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed56247bb24b6b4f91bd29842688070
+      internalID: 942404179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 222
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1626a2b4a0e01a45a56fdb1bc43d617
+      internalID: -348048286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 223
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3ece8954f20ef4d9a25b3bd8bd74f6
+      internalID: 1133392773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 227
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302e53a1074418e4f8386a300fe3ab04
+      internalID: -1437215900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 229
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb1caa166496ec4e8ded4eb8dfb2ef6
+      internalID: -304650524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 228
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca34b5036b35184b9659d2c4b09db53
+      internalID: 201144023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 228
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207ca6f275f99524e98b6c911e169ab1
+      internalID: 438659818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 163
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3370b117b51a2a94db85062f39e74590
+      internalID: 29048062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 167
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52aba8a4422cae442861b8b40da237b4
+      internalID: -55245833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 169
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c5fdd281e57cf45a53247e94fc9b50
+      internalID: 1258988530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 171
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3829eddd33807eb49a5ae6561f02d63a
+      internalID: -288545352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 198
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dd14957c31f5a4ba81db3f2598159d
+      internalID: 1315203195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 172
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bec5548df458446811c80cfc9d0bf6
+      internalID: 1041486534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 198
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb60fdccaa9c35242be32f0f5fd7eab9
+      internalID: -1458161831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 169
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e35d0d2158b1714e87dad21f67e4f41
+      internalID: -483048648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 167
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab12ec27994d00b4bb14773969bcf603
+      internalID: 350204754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 98
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd519f24187bc04db60819e44011973
+      internalID: -290471414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 95
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c9137ed41263645b3dfd25dbecb135
+      internalID: 2033371197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 94
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497ebb52878fc1c4c990a88d8e2f51f1
+      internalID: 741668344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 92
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3378b2945439404d853c9e22a54718a
+      internalID: 1125567414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 90
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6faab2312b017ba44ac1f997ac7a4f57
+      internalID: 595304530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 106
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f613182ae5eae1a4f8f25dea13f97efd
+      internalID: 235570031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 88
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff7581f872922b4a96bbe4fa7e7c988
+      internalID: -298784548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 106
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa01987a835d044daf40299369881be
+      internalID: -1735616445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 87
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a805648c832674bb30b93c714f4213
+      internalID: 160296764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 36
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913d8dbdb59a38041b83d009362bef12
+      internalID: 1776761512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 36
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d560dbfbb211fbe40832a0d5cda1edf0
+      internalID: -1684985922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 36
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df9bcc5022c862458e5699bb72bfd14
+      internalID: 289593199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 37
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9128db56155cc4db3471846e57e936
+      internalID: -35812338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 43
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8076072d99c53e64082f2e77f0954495
+      internalID: 1912214934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 47
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cda42ad04a13d4f974baf1ede789b7
+      internalID: -408848941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 37
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5b53c1f06ca324bab9409c49940c2d
+      internalID: 1568595159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_0: -953875399
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_1: -921393132
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_10: -932326073
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_11: 2109753191
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_12: 406516175
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_13: -2004269745
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_14: -1459473946
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_15: 1844035246
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_16: 819992489
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_17: -1152346626
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_18: -1928704252
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_19: -218097743
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_2: -1915930655
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_20: -1066250775
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_21: 942404179
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_22: -348048286
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_23: 1133392773
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_24: -1437215900
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_25: -304650524
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_26: 201144023
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_27: 438659818
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_28: 29048062
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_29: -55245833
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_3: -744999614
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_30: 1258988530
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_31: -288545352
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_32: 1315203195
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_33: 1041486534
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_34: -1458161831
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_35: -483048648
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_36: 350204754
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_37: -290471414
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_38: 2033371197
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_39: 741668344
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_4: -1428144633
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_40: 1125567414
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_41: 595304530
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_42: 235570031
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_43: -298784548
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_44: -1735616445
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_45: 160296764
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_46: 1776761512
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_47: -1684985922
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_48: 289593199
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_49: -35812338
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_5: 1374132095
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_50: 1912214934
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_51: -408848941
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_52: 1568595159
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_6: -86259642
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_7: 2019484884
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_8: 1918942337
+      27-276260_realistic-fire-sprite-sheet-fast-food-removebg-preview_9: -589725118
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1181 @@
+fileFormatVersion: 2
+guid: 9c0e95980d2ee4b50969f3a6ff656d3a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f517c557e52424cb5be6515a6c37bc16
+      internalID: 1407758890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 488
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490201d0448c044e59888457b1d18387
+      internalID: -473773878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 488
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54dbc2537396b44faa6a11e680e5db98
+      internalID: 1484787468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 488
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718ebd746ace248a09d0c407417b60c0
+      internalID: -1477496847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 488
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005ef96ab39bb4bd4bbd3c3696141027
+      internalID: -448519258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 488
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6a470973d76487d8d275d2509483bb
+      internalID: 1606051034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 425
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4f4c7b60fee43d68253509ce796445
+      internalID: -1913967809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 425
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872f367e89f2247bb8bfd87406b8eb63
+      internalID: -1975006097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 425
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68313d304b19745ab9f7a0b85114fcf8
+      internalID: 115257344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 425
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2740533ab0dd54bc6aec895c362a492b
+      internalID: -1710845940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 425
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502befcd1b880486c885410f89e574dc
+      internalID: 1829872020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 425
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb22c17fd9984e2294cbbc661b67fd2
+      internalID: -666759517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 425
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734600e9f7c104aca8ef7b3fbf3538d7
+      internalID: 988522925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 425
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a347e41372c242d0ab14844900ded76
+      internalID: -1383342186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 425
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d68080b0cfa2481ba0089b031ab026b
+      internalID: -1252651213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1bd413461094d56a0b5cca4403797a
+      internalID: -737438615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 360
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ca83129098440fca41603ca0a497a1
+      internalID: 964397888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 361
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f688af95274ac4cef8677952be31eb9e
+      internalID: 310798593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 361
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87dd6905b77f44f48a6cd08b71f8f34
+      internalID: 1229121413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 361
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d537ec4703ef74553a1599c134b39665
+      internalID: 1647482653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 361
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7429e819c77d492884a154ab3ac17ff
+      internalID: -1126895276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 361
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e946320ef866346b28e33e120b54b526
+      internalID: 1296527803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 361
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d9aa2ce56af4a77812a94fe0aa9a8c
+      internalID: 387562510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 361
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe47e2764a16142218be3680038d36ce
+      internalID: -781653598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 326
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49829b7676ab4c4bb857e956db5e40c
+      internalID: -1418953197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 326
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed1db07387f44af58dafa01c63418cb
+      internalID: 270209307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 325
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac5bc17b0bbf4289bf60c6fa5447681
+      internalID: 221432699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 326
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31e58f9db0fc40e795ee0ab41227a60
+      internalID: -317583300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 326
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa19b275fe664e6e96357b9599e659b
+      internalID: 982113851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 325
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893943458ca8e4e3da3e72c1dc2ff37d
+      internalID: -298469324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 325
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4926ab64cd4df4cb2a53de89efcb5165
+      internalID: -394645268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e78d7703acc1469c8a42be98a107668
+      internalID: 1402903901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 254
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f399a9c99ac7346d880489bcaa42242a
+      internalID: -1597071176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 254
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fd766e965664aab8dc74cdb0f3231d
+      internalID: 468800316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 254
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6aa87a2309ed4a288c6590d172a8e37
+      internalID: 135935125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 254
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a7a93da931747c4a2364c14406930e
+      internalID: -103202524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d59157b1f994c6ea7ba252959c8417
+      internalID: -1535323772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 192
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160c840ab4c5243a9ad5e58df2150934
+      internalID: 460982836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 194
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba40a523b430427ca01187254b7b148
+      internalID: 369297167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185d6119e6a2b42eeb4cacbb87df4005
+      internalID: 1663025437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 130
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7a49651303e4c42afc55559c2a5120
+      internalID: -633032342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5d9543041114d0094e8f03054b02c3
+      internalID: -1550131803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 67
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e347eda32898467b92aaafe077c1a14
+      internalID: 170314877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53d553fc15dd4c62b919c28e7a89090
+      internalID: -1741182882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6843a9640c6d43fca42b68b7b702cf8
+      internalID: 622815417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70084529a989e4fdbb5abc22f16d1de5
+      internalID: -178392095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkit_sonic-mania-logo-png_1408558-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840c4f592226a4554a19caae854f2522
+      internalID: 1604068150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_0: 1407758890
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_1: -473773878
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_10: 1829872020
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_11: -666759517
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_12: 988522925
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_13: -1383342186
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_14: -1252651213
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_15: -737438615
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_16: 964397888
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_17: 310798593
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_18: 1229121413
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_19: 1647482653
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_2: 1484787468
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_20: -1126895276
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_21: 1296527803
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_22: 387562510
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_23: -781653598
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_24: -1418953197
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_25: 270209307
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_26: 221432699
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_27: -317583300
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_28: 982113851
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_29: -298469324
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_3: -1477496847
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_30: -394645268
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_31: 1402903901
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_32: -1597071176
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_33: 468800316
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_34: 135935125
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_35: -103202524
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_36: -1535323772
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_37: 460982836
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_38: 369297167
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_39: 1663025437
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_4: -448519258
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_40: -633032342
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_41: -1550131803
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_42: 170314877
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_43: -1741182882
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_44: 622815417
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_45: -178392095
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_46: 1604068150
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_5: 1606051034
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_6: -1913967809
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_7: -1975006097
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_8: 115257344
+      pngkit_sonic-mania-logo-png_1408558-removebg-preview_9: -1710845940
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

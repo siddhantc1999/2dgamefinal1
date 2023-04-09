@@ -1,0 +1,1335 @@
+fileFormatVersion: 2
+guid: dd9d20792219d49af86fd89a817f1bb6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 514
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba20bd05ac81427ca7c1064b78d244f
+      internalID: 1056840820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 511
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2c3dd0e9c714ef199d497174130c79
+      internalID: -2130464319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 507
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff8d07e75f40496c94a45fb844118fb
+      internalID: -771951324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_3
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 504
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b9c13bec2eb45b18d5626a2a9f8f31
+      internalID: 808117629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_4
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 501
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe975000d345343e5bb0487c62fb0e81
+      internalID: -596688975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 499
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b38035ca7184bce87c89274391abf9
+      internalID: -170133593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 397
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a21a65a57f634664bc88b881fb57675
+      internalID: 1063087992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 395
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb17a3232f494ae398a722d9951b19a
+      internalID: -810638964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_8
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 394
+        width: 87
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c6baee2a3e840918ab42b0ee27bf30
+      internalID: 1873013385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_9
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 441
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dff4e717b4445beafdb9e153337596
+      internalID: 731111749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_10
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 392
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85078b93910247bfba98384bdd4264d
+      internalID: 126138802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_11
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 441
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32867ec3b917e446a85f15b801557f03
+      internalID: -434741378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_12
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 391
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3eb20c5d90240a38ee91bd6b391cc8
+      internalID: -1862169225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_13
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 442
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9241d04541df04dae95cc86e87bacb1b
+      internalID: -1945257585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_14
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 391
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df15a8b3b700e4fef8352e9ad9803708
+      internalID: 722102444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_15
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 444
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934a0a9d40f2141bb870d3a43f7d9e10
+      internalID: -243203747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 342
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa8b79aca4ea4b38a1a83457dfadff0
+      internalID: -1190042676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_17
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 290
+        width: 92
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae3d6e9db38d4856b889aef82416564
+      internalID: -1023202523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_18
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 345
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb832e41388af4f94998883e397c221c
+      internalID: -1648044693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 342
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55a471b3460d4269920fd9828c856f3
+      internalID: -221749833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_20
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 289
+        width: 93
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc078c62c86d3450fa675589e92d5fdf
+      internalID: -1904948184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_21
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 342
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24451ea6cbea4379bf4f6011e5ab4a7
+      internalID: 93624345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 290
+        width: 95
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559f5611eb0bc426893803b17480dcfe
+      internalID: 1937102008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_23
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 289
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16241090d227e4abb8c86d04743199b2
+      internalID: 902653064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_24
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 289
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32885e92da6384350b63d64d5d3a43f5
+      internalID: -1864150785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_25
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 288
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9523ca80f33664758b1aceed03285194
+      internalID: 2006381042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_26
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 290
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b6ed94d47f2479fa6443413f23b527
+      internalID: -806770644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_27
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 293
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1dddbf30ff44e90815bafbd761e94c
+      internalID: 743149385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 183
+        width: 99
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a61331741ad4471a631c44651cf846
+      internalID: 1498687149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_29
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 184
+        width: 99
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7490cf98fea734d11893c5650bcf19a1
+      internalID: 798379409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_30
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 185
+        width: 99
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859aab561d91d4e04a6cc9942a49ff5e
+      internalID: 910478047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_31
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 243
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cbc904803b14bbfba25a8a81a20ce8
+      internalID: 672586269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_32
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 188
+        width: 106
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6bdd8e63afd4e7399f18eaf0253dd8
+      internalID: 2016244275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_33
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 187
+        width: 97
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dfb673f7d5745a9a3aa7e8941c8ba1
+      internalID: -1474427367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_34
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 187
+        width: 95
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f04e5900d9204379a8fde8adbd1bef4
+      internalID: -210182537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_35
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 227
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7ec97706545481d99e718d791fe49a
+      internalID: 571387868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_36
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 216
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4752aa9ba13544ecba31b8a4a26bc30d
+      internalID: -672861117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_37
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 195
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b7fb42a78d64a6aaf234aeafebafb3
+      internalID: 1078483682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_38
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 193
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ed3517bcfc14ce9996dffbc2b757d1
+      internalID: -433194223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_39
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 195
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56a6de2b71e648d88f75b926927ed1e
+      internalID: -163451345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 88
+        width: 106
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fc7d6798ce9401f8d88e7209fb59a0
+      internalID: -483838223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_41
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 177
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717edb467bb5f4c8e8012332abd436e4
+      internalID: -706058304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_42
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 88
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8481ccb53184facb41fd360936f990
+      internalID: -1270423746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_43
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 95
+        width: 88
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5da77b6fccd4849934f9fc8348c840
+      internalID: 1232910032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_44
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 128
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c481663aaff04c4c94ca834af52ed1a
+      internalID: 480738844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_45
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 96
+        width: 88
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0993b2dd137491fa9ad29ca5367ff6
+      internalID: -180081614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_46
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 96
+        width: 88
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969472e58d859479ab24cd8f13296f62
+      internalID: -887658810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_47
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 100
+        width: 86
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f7893781aca40c384adf799bf84859
+      internalID: 1465283665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_48
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 95
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26562b8ff4c0a4aafb54d20b86e5dcb7
+      internalID: -767531810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_49
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 95
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b8ad114310646dc9e175a658a05981
+      internalID: 1901915834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_50
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 69
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10522f03ee5244034b38ba49390a0783
+      internalID: -1476445564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_51
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 2
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3fea76e97ea45e6a56f4f7047260f5
+      internalID: -2118198550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_52
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 3
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ac7d70fef684a009e12261d0eac259
+      internalID: -1656816487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-sun-png-1364883_53
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 4
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef01db16b89974cb49f9d905fd6c5040
+      internalID: 7387046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pngkey.com-sun-png-1364883_0: 1056840820
+      pngkey.com-sun-png-1364883_1: -2130464319
+      pngkey.com-sun-png-1364883_10: 126138802
+      pngkey.com-sun-png-1364883_11: -434741378
+      pngkey.com-sun-png-1364883_12: -1862169225
+      pngkey.com-sun-png-1364883_13: -1945257585
+      pngkey.com-sun-png-1364883_14: 722102444
+      pngkey.com-sun-png-1364883_15: -243203747
+      pngkey.com-sun-png-1364883_16: -1190042676
+      pngkey.com-sun-png-1364883_17: -1023202523
+      pngkey.com-sun-png-1364883_18: -1648044693
+      pngkey.com-sun-png-1364883_19: -221749833
+      pngkey.com-sun-png-1364883_2: -771951324
+      pngkey.com-sun-png-1364883_20: -1904948184
+      pngkey.com-sun-png-1364883_21: 93624345
+      pngkey.com-sun-png-1364883_22: 1937102008
+      pngkey.com-sun-png-1364883_23: 902653064
+      pngkey.com-sun-png-1364883_24: -1864150785
+      pngkey.com-sun-png-1364883_25: 2006381042
+      pngkey.com-sun-png-1364883_26: -806770644
+      pngkey.com-sun-png-1364883_27: 743149385
+      pngkey.com-sun-png-1364883_28: 1498687149
+      pngkey.com-sun-png-1364883_29: 798379409
+      pngkey.com-sun-png-1364883_3: 808117629
+      pngkey.com-sun-png-1364883_30: 910478047
+      pngkey.com-sun-png-1364883_31: 672586269
+      pngkey.com-sun-png-1364883_32: 2016244275
+      pngkey.com-sun-png-1364883_33: -1474427367
+      pngkey.com-sun-png-1364883_34: -210182537
+      pngkey.com-sun-png-1364883_35: 571387868
+      pngkey.com-sun-png-1364883_36: -672861117
+      pngkey.com-sun-png-1364883_37: 1078483682
+      pngkey.com-sun-png-1364883_38: -433194223
+      pngkey.com-sun-png-1364883_39: -163451345
+      pngkey.com-sun-png-1364883_4: -596688975
+      pngkey.com-sun-png-1364883_40: -483838223
+      pngkey.com-sun-png-1364883_41: -706058304
+      pngkey.com-sun-png-1364883_42: -1270423746
+      pngkey.com-sun-png-1364883_43: 1232910032
+      pngkey.com-sun-png-1364883_44: 480738844
+      pngkey.com-sun-png-1364883_45: -180081614
+      pngkey.com-sun-png-1364883_46: -887658810
+      pngkey.com-sun-png-1364883_47: 1465283665
+      pngkey.com-sun-png-1364883_48: -767531810
+      pngkey.com-sun-png-1364883_49: 1901915834
+      pngkey.com-sun-png-1364883_5: -170133593
+      pngkey.com-sun-png-1364883_50: -1476445564
+      pngkey.com-sun-png-1364883_51: -2118198550
+      pngkey.com-sun-png-1364883_52: -1656816487
+      pngkey.com-sun-png-1364883_53: 7387046
+      pngkey.com-sun-png-1364883_6: 1063087992
+      pngkey.com-sun-png-1364883_7: -810638964
+      pngkey.com-sun-png-1364883_8: 1873013385
+      pngkey.com-sun-png-1364883_9: 731111749
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

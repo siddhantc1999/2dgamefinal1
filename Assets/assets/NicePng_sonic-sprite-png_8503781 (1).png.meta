@@ -1,0 +1,2017 @@
+fileFormatVersion: 2
+guid: 901d3cf658e5c4da3bf6baf8f3f0227f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 819
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e645c898396174efeaa180b9109c9fde
+      internalID: 1947083810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 819
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3913f794f5153463290f93fc51b7cec5
+      internalID: 338763335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 819
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1398a1b07cde47b18adf699433eeec8
+      internalID: -285360006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 823
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d427826cc2d4bab804aff4c1cda29c
+      internalID: 1242846696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 819
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43c265d6d2414b47b51b7a1af50003e
+      internalID: 1016461232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 819
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1985dfbb0672540d98fa6c349313c10c
+      internalID: -1796498583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 821
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed447d1062fe5492d812bfcb701a6779
+      internalID: -768869874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 819
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378ea94e2ed9a48e38102c2d361d3ee4
+      internalID: 557033193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 819
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808896fb9b66d499abb9e41938aee58a
+      internalID: 1656543608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 819
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb28300947fff474c90e50f269e557ef
+      internalID: 2003768033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 739
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be76b085c794144acadea37304ba2ede
+      internalID: 355381983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 739
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f736442ba3fe44a40be57ed2d813f883
+      internalID: 1488415052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_12
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 741
+        width: 74
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6a0116b1229438fa4bb969d55065db
+      internalID: 1381367807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_13
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 741
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8595a42ac84894c94b505612f77ebd80
+      internalID: 1921860591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_14
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 735
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977924ad02e744536a0553a199f210f1
+      internalID: 1087597474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_15
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 735
+        width: 72
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4e8adc9c8ce4776bb5d8df2868e916
+      internalID: -1441614643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_16
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 735
+        width: 72
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d780a0d7393b4d77b072551989f34f9
+      internalID: 22250483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_17
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 635
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3379f6cb2642044478e24f043c72c91a
+      internalID: 1179937213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_18
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 635
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4d610c29f334b6294dd61b07d14771
+      internalID: 1040434074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 635
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d694058dba6354ecf9e39c81e3443f11
+      internalID: -160883489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_20
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 635
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37b5a8a5d01b4eb2a47366b594a7f33
+      internalID: 1060690325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_21
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 637
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d8a87228b084d6c900315ea86fbbc2
+      internalID: 2054994777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_22
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 635
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff2adf95d14d48cc954bf9b44a63008
+      internalID: -752349945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_23
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 637
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4965ed23a3dc44829d89c755370dd6f
+      internalID: 977096024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_24
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 643
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2172b683dee6b4e1fb582fedd5edd9a7
+      internalID: 272287817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_25
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 643
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f503d140993ef4e0191ecf96885658c9
+      internalID: 174275263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 549
+        width: 83
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7363c8fa3d062403cbb46f116172bb7b
+      internalID: -832054238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_27
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 549
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbf629b6460f4e4a98fe68239c16d61
+      internalID: -308901946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_28
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 547
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcce5ea3c9e34ec38a4f0c73adb7898
+      internalID: 1010309952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_29
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 547
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcc63e9048084ae29235fd03a35c15a
+      internalID: -1945137829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_30
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 547
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5fea2a0a77f41a7b7a389938e7026f
+      internalID: 698559904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_31
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 547
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee416085172a48a69fdf3a2658ae322
+      internalID: -1232827684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_32
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 547
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9233eee9171e041a391c6ce920e1f88d
+      internalID: 877170137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_33
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 459
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ed8ee7648f3434d97b7156ef26119e
+      internalID: -1174717676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_34
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 461
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a140088336b27492fb54f4b3d1c4f47b
+      internalID: 2028540231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_35
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 459
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fc687cdc8ab45699d09c044dcf4b0c
+      internalID: 1733098162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_36
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 459
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a5810e791734076a49d7e4e6fbe812
+      internalID: 1290779267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_37
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 461
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6db2ff61f22f4084ae98b3f60bacdb7
+      internalID: -1080564815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_38
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 459
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fcf5125b6ce4adabdf359ff637db4a
+      internalID: -2123564885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_39
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 459
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e774028e4c24448c862498b958e9b98
+      internalID: 1504473439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_40
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 459
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986d0133509c74d62ad51259bea47172
+      internalID: 1621643777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_41
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 371
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6d42582ed2049c891b9949156944cb
+      internalID: -356519720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_42
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 371
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8d61e98c19b4e76b7b21c4486f17e8
+      internalID: -1012840331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_43
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 371
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9ab8f4227224bf4a5ff5bb35d426d1
+      internalID: 1285335067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_44
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 371
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1d11ec826614018b93f24df26ae956
+      internalID: -2123550563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_45
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 371
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b89902e89864a1581a6baef04f904e
+      internalID: 1208474868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_46
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 373
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0362e21aa6274fa4b094c1d19e8ac9a
+      internalID: -849304813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_47
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 373
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe9f6130f2004e719f40f49cffd6630
+      internalID: 1561978980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_48
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 373
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea19c8ef97bbf494897cbcae39d1c3eb
+      internalID: 1051879852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_49
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 280
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852c63f341429468a91ec723d1af05a3
+      internalID: 2092552883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_50
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 280
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd93f9f0ba09e4240a2e09f6c5cc41d3
+      internalID: -2137117085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_51
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 282
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58f9b561ab0043fd9f3eaaec7f5e9f6
+      internalID: -774293614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_52
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 286
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da8f08185c91493a9a8acee94252ed6
+      internalID: -1006486973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_53
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 284
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5717d5f298e004de79e4e91d5ed4cb5b
+      internalID: 545619110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_54
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 286
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12abbeafd86c14fd5bf77759b369fa99
+      internalID: 689205546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_55
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 280
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffaedcccee094b26a94d94e1efa5c76
+      internalID: 81984969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_56
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 284
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea56291b3eebd4731875b9618d3de774
+      internalID: -175615448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_57
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 183
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd0afc2c2a5641199f98de3eff3018b
+      internalID: 978808260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_58
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 183
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fe93c3c5b764811916fe7b7832f224
+      internalID: 959710309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_59
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 183
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e909a10e7dce436ab1f65a2fe4cd522
+      internalID: 1411864966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_60
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 183
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278f16e45e63e48e28ef688a2b5ee806
+      internalID: -91012129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_61
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 187
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945460334e711415cba5083685dca73e
+      internalID: 832627189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_62
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 187
+        width: 50
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55c1a37f1c5f48ec8f069f9dc7934a2
+      internalID: -1542846702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_63
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 185
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8ef8fdcf29e4f26a0d9cf948b4dbae
+      internalID: 73016257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_64
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 185
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b680db50f586c4a72b34521b3ddce972
+      internalID: -1491632759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_65
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 185
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110af9411247248e9b06e9414b29d566
+      internalID: 2002832197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_66
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 160
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a261effc64c45578f78a3524683b33
+      internalID: -1607837064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_67
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 164
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da8bb7aff4144666bcea9714c33fa4b
+      internalID: 1674389070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_68
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 162
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d397b5d684546c8a0a05015a2c24f1
+      internalID: 1218254379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_69
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 96
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfcc2221f4e74ef799eaf1682bcd8c4
+      internalID: 1315165151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_70
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 96
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25a0963767024b63a646d51377661b1
+      internalID: 1979672066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_71
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 96
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01a3f834089d401b95d5daff5acc404
+      internalID: -1952851851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_72
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 96
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032f0c4cf35df42fa98c9663f92a0546
+      internalID: -189707430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_73
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 158
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9eb8ba5a8b684160938afcdda97b695
+      internalID: -135269252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_74
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 96
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32c2fe4427364c8bb6f77c04099e259
+      internalID: 1339988030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_75
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 96
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c8beaffdf8f45148f5db818a751448
+      internalID: -802632574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_76
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 158
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcd59bc3dae3491fb176b13ab6d0fff
+      internalID: -807988113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_77
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 156
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d5796530bc54c45a89715ded5132fc
+      internalID: -1916012047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_78
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 96
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e997ef85f174a7090b71a3d1251135
+      internalID: 647152707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_79
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 84
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4609edd9c7340ab924840a749d967b
+      internalID: 742156010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_80
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94e41c4729104545a30c21804152902
+      internalID: 404070477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_81
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 0
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48160d19f36d44dc2b9e8d5033f15447
+      internalID: 1473989290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_82
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 0
+        width: 78
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f26d70acd0cf449da8fa9fd65ad4681
+      internalID: -389490580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_83
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 0
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23752298c2f14503924742f776c1a8a
+      internalID: -2050934682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_sonic-sprite-png_8503781 (1)_84
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 0
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075bb0fb282b24c88b6ac843f330455b
+      internalID: -1823804491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NicePng_sonic-sprite-png_8503781 (1)_0: 1947083810
+      NicePng_sonic-sprite-png_8503781 (1)_1: 338763335
+      NicePng_sonic-sprite-png_8503781 (1)_10: 355381983
+      NicePng_sonic-sprite-png_8503781 (1)_11: 1488415052
+      NicePng_sonic-sprite-png_8503781 (1)_12: 1381367807
+      NicePng_sonic-sprite-png_8503781 (1)_13: 1921860591
+      NicePng_sonic-sprite-png_8503781 (1)_14: 1087597474
+      NicePng_sonic-sprite-png_8503781 (1)_15: -1441614643
+      NicePng_sonic-sprite-png_8503781 (1)_16: 22250483
+      NicePng_sonic-sprite-png_8503781 (1)_17: 1179937213
+      NicePng_sonic-sprite-png_8503781 (1)_18: 1040434074
+      NicePng_sonic-sprite-png_8503781 (1)_19: -160883489
+      NicePng_sonic-sprite-png_8503781 (1)_2: -285360006
+      NicePng_sonic-sprite-png_8503781 (1)_20: 1060690325
+      NicePng_sonic-sprite-png_8503781 (1)_21: 2054994777
+      NicePng_sonic-sprite-png_8503781 (1)_22: -752349945
+      NicePng_sonic-sprite-png_8503781 (1)_23: 977096024
+      NicePng_sonic-sprite-png_8503781 (1)_24: 272287817
+      NicePng_sonic-sprite-png_8503781 (1)_25: 174275263
+      NicePng_sonic-sprite-png_8503781 (1)_26: -832054238
+      NicePng_sonic-sprite-png_8503781 (1)_27: -308901946
+      NicePng_sonic-sprite-png_8503781 (1)_28: 1010309952
+      NicePng_sonic-sprite-png_8503781 (1)_29: -1945137829
+      NicePng_sonic-sprite-png_8503781 (1)_3: 1242846696
+      NicePng_sonic-sprite-png_8503781 (1)_30: 698559904
+      NicePng_sonic-sprite-png_8503781 (1)_31: -1232827684
+      NicePng_sonic-sprite-png_8503781 (1)_32: 877170137
+      NicePng_sonic-sprite-png_8503781 (1)_33: -1174717676
+      NicePng_sonic-sprite-png_8503781 (1)_34: 2028540231
+      NicePng_sonic-sprite-png_8503781 (1)_35: 1733098162
+      NicePng_sonic-sprite-png_8503781 (1)_36: 1290779267
+      NicePng_sonic-sprite-png_8503781 (1)_37: -1080564815
+      NicePng_sonic-sprite-png_8503781 (1)_38: -2123564885
+      NicePng_sonic-sprite-png_8503781 (1)_39: 1504473439
+      NicePng_sonic-sprite-png_8503781 (1)_4: 1016461232
+      NicePng_sonic-sprite-png_8503781 (1)_40: 1621643777
+      NicePng_sonic-sprite-png_8503781 (1)_41: -356519720
+      NicePng_sonic-sprite-png_8503781 (1)_42: -1012840331
+      NicePng_sonic-sprite-png_8503781 (1)_43: 1285335067
+      NicePng_sonic-sprite-png_8503781 (1)_44: -2123550563
+      NicePng_sonic-sprite-png_8503781 (1)_45: 1208474868
+      NicePng_sonic-sprite-png_8503781 (1)_46: -849304813
+      NicePng_sonic-sprite-png_8503781 (1)_47: 1561978980
+      NicePng_sonic-sprite-png_8503781 (1)_48: 1051879852
+      NicePng_sonic-sprite-png_8503781 (1)_49: 2092552883
+      NicePng_sonic-sprite-png_8503781 (1)_5: -1796498583
+      NicePng_sonic-sprite-png_8503781 (1)_50: -2137117085
+      NicePng_sonic-sprite-png_8503781 (1)_51: -774293614
+      NicePng_sonic-sprite-png_8503781 (1)_52: -1006486973
+      NicePng_sonic-sprite-png_8503781 (1)_53: 545619110
+      NicePng_sonic-sprite-png_8503781 (1)_54: 689205546
+      NicePng_sonic-sprite-png_8503781 (1)_55: 81984969
+      NicePng_sonic-sprite-png_8503781 (1)_56: -175615448
+      NicePng_sonic-sprite-png_8503781 (1)_57: 978808260
+      NicePng_sonic-sprite-png_8503781 (1)_58: 959710309
+      NicePng_sonic-sprite-png_8503781 (1)_59: 1411864966
+      NicePng_sonic-sprite-png_8503781 (1)_6: -768869874
+      NicePng_sonic-sprite-png_8503781 (1)_60: -91012129
+      NicePng_sonic-sprite-png_8503781 (1)_61: 832627189
+      NicePng_sonic-sprite-png_8503781 (1)_62: -1542846702
+      NicePng_sonic-sprite-png_8503781 (1)_63: 73016257
+      NicePng_sonic-sprite-png_8503781 (1)_64: -1491632759
+      NicePng_sonic-sprite-png_8503781 (1)_65: 2002832197
+      NicePng_sonic-sprite-png_8503781 (1)_66: -1607837064
+      NicePng_sonic-sprite-png_8503781 (1)_67: 1674389070
+      NicePng_sonic-sprite-png_8503781 (1)_68: 1218254379
+      NicePng_sonic-sprite-png_8503781 (1)_69: 1315165151
+      NicePng_sonic-sprite-png_8503781 (1)_7: 557033193
+      NicePng_sonic-sprite-png_8503781 (1)_70: 1979672066
+      NicePng_sonic-sprite-png_8503781 (1)_71: -1952851851
+      NicePng_sonic-sprite-png_8503781 (1)_72: -189707430
+      NicePng_sonic-sprite-png_8503781 (1)_73: -135269252
+      NicePng_sonic-sprite-png_8503781 (1)_74: 1339988030
+      NicePng_sonic-sprite-png_8503781 (1)_75: -802632574
+      NicePng_sonic-sprite-png_8503781 (1)_76: -807988113
+      NicePng_sonic-sprite-png_8503781 (1)_77: -1916012047
+      NicePng_sonic-sprite-png_8503781 (1)_78: 647152707
+      NicePng_sonic-sprite-png_8503781 (1)_79: 742156010
+      NicePng_sonic-sprite-png_8503781 (1)_8: 1656543608
+      NicePng_sonic-sprite-png_8503781 (1)_80: 404070477
+      NicePng_sonic-sprite-png_8503781 (1)_81: 1473989290
+      NicePng_sonic-sprite-png_8503781 (1)_82: -389490580
+      NicePng_sonic-sprite-png_8503781 (1)_83: -2050934682
+      NicePng_sonic-sprite-png_8503781 (1)_84: -1823804491
+      NicePng_sonic-sprite-png_8503781 (1)_9: 2003768033
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
